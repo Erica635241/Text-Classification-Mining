@@ -1,1 +1,1 @@
-# Text-Classification-Mining
+# Text Classification & Text Mining on Twenty Newsgroups Dataset
