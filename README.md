@@ -44,3 +44,15 @@ This project applies text classification and text mining techniques on the Twent
     - Install `PAMI` library
 - [UMAP](https://umap-learn.readthedocs.io/en/latest/)
     - Install `UMAP` library
+ 
+## Results
+Model performance is evaluated using multiple metrics.
+The best model, Multinomial Naive Bayes classifier, achieves high accuracy in classifying text into the 20 newsgroup categories.
+
+## Future Improvements
+
+(1) Experimenting with deep learning models (e.g., LSTM, BERT) for improved classification.
+
+(2) Fine-tuning hyperparameters using grid search.
+
+(3) Exploring topic modeling techniques like LDA.
