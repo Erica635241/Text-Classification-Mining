@@ -21,19 +21,11 @@ This project applies text classification and text mining techniques on the Twent
 - RAM: 8 GB
 - Disk space: 8 GB
 
-##### Language:
+### Language:
 - [Python 3+](https://www.python.org/download/releases/3.0/) (Note: coding will be done strictly on Python 3)
     - We are using Python 3.9.6.
     
-##### Environment:
-
-- [Anaconda](https://www.anaconda.com/download/)
-    - Install anaconda environment
-    
-- [Python virtualenv](https://virtualenv.pypa.io/en/stable/userguide/)
-    - Install virtual environment
-    
-##### Necessary Libraries:
+### Necessary Libraries:
 - [Scikit Learn](http://scikit-learn.org/stable/index.html)
     - Install `sklearn` latest python library
 - [Pandas](http://pandas.pydata.org/)
